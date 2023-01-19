@@ -1,7 +1,7 @@
-![frederick_a_UI_design_written_logo_with_python_IDE_in_the_backg_e683288b-8986-4bc6-b7ac-717d2e95b16b](https://user-images.githubusercontent.com/84153519/213341698-264024ea-2774-47e6-a9a5-9c977b8f72bc.png)
-# UI-Testing-with-Selenium
-Uses some basic html files to test for bugs using Pytest and Selenium
 # UI Testing with Python and Selenium
+Uses some basic html files to test for bugs using Pytest and Selenium
+![frederick_a_UI_design_written_logo_with_python_IDE_in_the_backg_9c0e3411-4319-4cf5-a2f1-2b27b13c65a5](https://user-images.githubusercontent.com/84153519/213341920-3fae8196-6963-4040-8368-767713931a96.png)
+
 
 This project demonstrates how to use Python and Selenium to perform UI testing on an HTML file. The goal is to find hidden layers and test for all interactions on the HTML site.
 
