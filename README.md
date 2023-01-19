@@ -1,3 +1,4 @@
+![frederick_a_UI_design_written_logo_with_python_IDE_in_the_backg_e683288b-8986-4bc6-b7ac-717d2e95b16b](https://user-images.githubusercontent.com/84153519/213341698-264024ea-2774-47e6-a9a5-9c977b8f72bc.png)
 # UI-Testing-with-Selenium
 Uses some basic html files to test for bugs using Pytest and Selenium
 # UI Testing with Python and Selenium
