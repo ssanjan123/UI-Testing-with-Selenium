@@ -2,7 +2,7 @@
 Uses some basic html files to test for bugs using Pytest and Selenium
 
 
-<img src="https://user-images.githubusercontent.com/84153519/213341920-3fae8196-6963-4040-8368-767713931a96.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/84153519/213341920-3fae8196-6963-4040-8368-767713931a96.png" width="400" height="400">
 
 
 
